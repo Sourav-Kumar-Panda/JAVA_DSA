@@ -1,4 +1,4 @@
-package KunalAssingments;
+package KunalAssignment;
 import java.util.Scanner;
 public class Assingment2 {
     public static void main(String[] args) {
